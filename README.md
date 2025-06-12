@@ -48,19 +48,18 @@
 
 ---
 
-### ⚡ GitHub Activity
+### ⚡ GitHub Insights
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shagunchauhan02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shagunchauhan02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="96%"/>
 </p>
 
 ---
-
 
 ### 📫 Connect With Me
 
@@ -70,3 +69,5 @@
 ---
 
 <p align="center"><b>Thanks for stopping by. Let’s build something beautiful Together.🌸</b></p>
+
+---
