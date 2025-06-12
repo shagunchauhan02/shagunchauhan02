@@ -3,9 +3,8 @@
 <h3 align="center">🚀 Engineering Student | Java Developer | Web Developer | Blockchain Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C71585&center=true&vCenter=true&width=500&lines=💻+Engineering+Ideas+into+Impactful+Code;Building+Tech+that+Matters;Let's+Learn%2C+Code%2C+Create!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8B008B&center=true&vCenter=true&width=500&lines=Learning+Relentlessly%2C+Creating+Boldly;Building+Tech+that+Matters;Let's+Learn%2C+Code%2C+Create!" alt="Typing animation" />
 </p>
-
 
 
 ---
@@ -66,4 +65,4 @@
 - 🧑‍💻 [GitHub](https://github.com/shagunchauhan02)  
 ---
 
-<p align="center"><b>Thanks for stopping by. Let’s build something beautiful together 🌸</b></p>
+<p align="center"><b>Thanks for stopping by. Let’s build something beautiful Together.🌸</b></p>
