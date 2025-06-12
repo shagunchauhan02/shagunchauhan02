@@ -2,6 +2,10 @@
 <h1 align="center">Hi 👋, I'm Shagun</h1>
 <h3 align="center">🚀 Engineering Student | Java Developer | Web Developer | Blockchain Learner</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Passionate+about+Code+and+Creativity;Building+Tech+that+Matters;Let's+Learn%2C+Code%2C+Create!" alt="Typing animation" />
+</p>
+
 ---
 
 🌟 I'm a passionate and curious tech enthusiast who loves building meaningful projects that create real impact. From crafting clean Java applications to developing responsive web interfaces and exploring blockchain, I'm always learning and experimenting!
@@ -14,7 +18,7 @@
 - 🌱 I’m currently learning **Smart Contracts & Blockchain Basics**
 - 👯 I love **collaborating on open-source projects and community tech work**
 - 💬 Ask me about **Java, Full-Stack Development, and Blockchain**
-- 📫 How to reach me: **shagunchauhan658@gmail.com**
+  
 - ⚡ Fun fact: **I think semicolons and smiles fix almost everything**
 
 ---
@@ -41,27 +45,23 @@
 - 🔐 **ATM Simulation System** – Java-based console app for simulating ATM transactions
 - 🏎️ **Formula 1 Championship Manager** – Desktop app to manage races & stats in Java Swing
 - ⏱️ **Stopwatch Web App** – Responsive stopwatch using HTML, CSS, JS
-
+  
 ---
 
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" alt="shagun's github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&theme=radical" alt="Shagun's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### 📫 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Gmail-red?logo=gmail&style=for-the-badge"/></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-black?logo=github&style=for-the-badge"/></a>
-</p>
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/shagun-chauhan-239aa3293)  
+- 🧑‍💻 [GitHub](https://github.com/shagunchauhan02)  
 ---
 
-✨ *Thanks for visiting! Let’s build and grow together.* 🔥
+<p align="center"><b>Thanks for stopping by. Let’s build something beautiful together 🌸</b></p>
