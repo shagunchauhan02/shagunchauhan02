@@ -3,8 +3,9 @@
 <h3 align="center">🚀 Engineering Student | Java Developer | Web Developer | Blockchain Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Passionate+about+Code+and+Creativity;Building+Tech+that+Matters;Let's+Learn%2C+Code%2C+Create!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=550&lines=✨+Driven+by+Code+and+Purpose;💡+Creating+Tech+for+Real+Impact;🚀+Code.+Learn.+Inspire.+Repeat." alt="Typing animation" />
 </p>
+
 
 ---
 
@@ -14,12 +15,12 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I’m currently working on **Java-based projects & MERN stack applications**
-- 🌱 I’m currently learning **Smart Contracts & Blockchain Basics**
-- 👯 I love **collaborating on open-source projects and community tech work**
-- 💬 Ask me about **Java, Full-Stack Development, and Blockchain**
+- 🔭 I’m currently working on **Java-based projects & MERN stack applications.**
+- 🌱 I’m currently learning **Smart Contracts & Blockchain Basics.**
+- 👯 I love **collaborating on open-source projects and community tech work.**
+- 💬 Ask me about **Java, Full-Stack Development, and Blockchain.**
   
-- ⚡ Fun fact: **I think semicolons and smiles fix almost everything**
+- ⚡ Fun fact: **I think semicolons and smiles fix almost everything.**
 
 ---
 
@@ -40,11 +41,11 @@
 ---
 
 ### 📌 My Featured Projects
-- 🌟 **Her Vision Her Voice** – Initiative to empower children in rural areas through education, storytelling, and creativity
--  🌿 **Plant Disease Detection** – CNN + Flask app for detecting leaf health
-- 🔐 **ATM Simulation System** – Java-based console app for simulating ATM transactions
-- 🏎️ **Formula 1 Championship Manager** – Desktop app to manage races & stats in Java Swing
-- ⏱️ **Stopwatch Web App** – Responsive stopwatch using HTML, CSS, JS
+- 🌟 **Her Vision Her Voice** – Initiative to empower children in rural areas through education, storytelling, and creativity.
+-  🌿 **Plant Disease Detection** – CNN + Flask app for detecting leaf health.
+- 🔐 **ATM Simulation System** – Java-based console app for simulating ATM transactions.
+- 🏎️ **Formula 1 Championship Manager** – Desktop app to manage races & stats in Java Swing.
+- ⏱️ **Stopwatch Web App** – Responsive stopwatch using HTML, CSS, JS.
   
 ---
 
