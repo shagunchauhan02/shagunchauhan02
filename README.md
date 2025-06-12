@@ -45,18 +45,21 @@
 - 🔐 **ATM Simulation System** – Java-based console app for simulating ATM transactions.
 - 🏎️ **Formula 1 Championship Manager** – Desktop app to manage races & stats in Java Swing.
 - ⏱️ **Stopwatch Web App** – Responsive stopwatch using HTML, CSS, JS.
-  
+
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&theme=radical" alt="Shagun's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&theme=tokyonight&hide_border=true&title_color=F75C7E&icon_color=F75C7E" alt="Shagun's GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shagunchauhan02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=F75C7E&ring=F75C7E" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&theme=tokyonight&hide_border=true&title_color=F75C7E" alt="Top Languages" />
 </p>
 
 ---
+
 
 ### 📫 Connect With Me
 
