@@ -48,26 +48,19 @@
 
 ---
 
-### 🚀 GitHub Insights
+### ⚡ GitHub Activity
 
-<div align="center">
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&hide_border=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&hide_border=true&theme=tokyonight&langs_count=6" />
+</p>
 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&theme=radical&border_radius=10&title_color=FF61A6&icon_color=FF61A6" 
-       width="48%" alt="Shagun's GitHub Stats"/>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&theme=radical&border_radius=10&title_color=FF61A6" 
-       width="48%" alt="Top Languages Used"/>
-
-  <!-- Contribution Streak -->
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shagunchauhan02&theme=radical&border_radius=10&ring=FF61A6&fire=FF61A6&currStreakLabel=FF61A6" 
-       width="100%" alt="GitHub Contribution Streak"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shagunchauhan02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
 
 ---
+
 
 ### 📫 Connect With Me
 
