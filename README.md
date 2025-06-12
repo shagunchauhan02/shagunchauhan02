@@ -48,17 +48,23 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 🚀 GitHub Insights
 
 <div align="center">
-  
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&theme=tokyonight&hide_border=true&title_color=F75C7E&icon_color=F75C7E" alt="Shagun's GitHub Stats"/>
 
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&theme=tokyonight&hide_border=true&title_color=F75C7E" alt="Top Languages"/>
-  
-  <br><br>
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&theme=radical&border_radius=10&title_color=FF61A6&icon_color=FF61A6" 
+       width="48%" alt="Shagun's GitHub Stats"/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shagunchauhan02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=F75C7E&ring=F75C7E" alt="GitHub Streak"/>
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&theme=radical&border_radius=10&title_color=FF61A6" 
+       width="48%" alt="Top Languages Used"/>
+
+  <!-- Contribution Streak -->
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shagunchauhan02&theme=radical&border_radius=10&ring=FF61A6&fire=FF61A6&currStreakLabel=FF61A6" 
+       width="100%" alt="GitHub Contribution Streak"/>
+
 </div>
 
 ---
