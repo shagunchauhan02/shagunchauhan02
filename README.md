@@ -3,10 +3,8 @@
 <h3 align="center">🚀 Engineering Student | Java Developer | Web Developer | Blockchain Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=C71585&center=true&vCenter=true&width=500&lines=Let's+Learn%2C+Code%2C+Create!;Transforming+Ideas+into+Impactful+Projects" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=D61A59&center=true&vCenter=true&width=550&lines=Turning+Coffee+into+Code+☕💻;Let's+Learn%2C+Code%2C+Create!" alt="Typing animation" />
 </p>
-
-
 
 ---
 
