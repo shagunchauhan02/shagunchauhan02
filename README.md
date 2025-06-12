@@ -50,21 +50,24 @@
 
 ### 📊 GitHub Stats & Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&theme=tokyonight&hide_border=true&title_color=F75C7E&icon_color=F75C7E" alt="Shagun's GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shagunchauhan02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=F75C7E&ring=F75C7E" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&theme=tokyonight&hide_border=true&title_color=F75C7E" alt="Top Languages" />
-</p>
+<div align="center">
+  
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=shagunchauhan02&show_icons=true&theme=tokyonight&hide_border=true&title_color=F75C7E&icon_color=F75C7E" alt="Shagun's GitHub Stats"/>
+
+  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagunchauhan02&layout=compact&theme=tokyonight&hide_border=true&title_color=F75C7E" alt="Top Languages"/>
+  
+  <br><br>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shagunchauhan02&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=F75C7E&ring=F75C7E" alt="GitHub Streak"/>
+</div>
 
 ---
-
 
 ### 📫 Connect With Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/shagun-chauhan-239aa3293)  
-- 🧑‍💻 [GitHub](https://github.com/shagunchauhan02)  
+- 🧑‍💻 [GitHub](https://github.com/shagunchauhan02)
+  
 ---
 
 <p align="center"><b>Thanks for stopping by. Let’s build something beautiful Together.🌸</b></p>
